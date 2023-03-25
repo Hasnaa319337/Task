@@ -103,11 +103,7 @@
           <td>{{ total_below }} ريال</td>
         </tr>
         <tr
-          style="
-            background: rgb(187 187 187 / 56%);
-            color: #df0d0d;
-            font-weight: 900;
-          "
+          style="background: rgb(187 187 187 / 56%);color: #df0d0d;font-weight: 900"
         >
           <td>اجمالي الخصم</td>
           <td>{{ trans_total_before_discount - total_below }} ريال</td>
